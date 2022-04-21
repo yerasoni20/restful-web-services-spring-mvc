@@ -1,4 +1,10 @@
+[![CircleCI](https://circleci.com/gh/yerasoni20/restful-web-services-spring-mvc/tree/master.svg?style=svg)](https://circleci.com/gh/yerasoni20/restful-web-services-spring-mvc/tree/master)
+# Spring Framework 5 MVC RESTful Web Services Application
 
-# Spring Framework 5 MVC Rest Application
+This repository is for an example application built in Spring MVC and developing RESTful endopoints for that. This application build its own apis.
 
-This repository is for an example application built in my Spring Framework 5 - Beginner to Guru
+This application uses project lombox and project mapstruct which gives us an object mapper, dependencies in this application. This application also uses Data Transfer Object(DTO) and swagger plugin to generate RESTful endpoints. It uses H2 in-memory database, JPA and Hibernate.
+
+bootstrap- to add bootstrap data
+category-controller- to add the @Controller class for Categories
+category-service- to add @service class for Categories
