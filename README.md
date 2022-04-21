@@ -5,6 +5,4 @@ This repository is for an example application built in Spring MVC and developing
 
 This application uses project lombox and project mapstruct which gives us an object mapper, dependencies in this application. This application also uses Data Transfer Object(DTO) and swagger plugin to generate RESTful endpoints. It uses H2 in-memory database, JPA and Hibernate.
 
-bootstrap- to add bootstrap data
-category-controller- to add the @Controller class for Categories
 category-service- to add @service class for Categories
