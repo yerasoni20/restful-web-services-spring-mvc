@@ -6,9 +6,7 @@ import guru.springfamework.services.CategoryService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * Created by jt on 9/26/17.
- */
+
 @RestController
 @RequestMapping(CategoryController.BASE_URL)
 public class CategoryController {
