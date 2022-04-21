@@ -8,7 +8,7 @@ import org.springframework.data.domain.Sort;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
- * Created by jt on 9/24/17.
+ * Created by Yera Soni on 2022-04-11.
  */
 public interface CategoryRepository extends JpaRepository<Category, Long> {
 }
