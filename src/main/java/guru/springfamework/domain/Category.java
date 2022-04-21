@@ -8,7 +8,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 /**
- * Created by jt on 9/24/17.
+ * Created by Yera Soni on 2022-04-11.
  */
 @Data
 @Entity
