@@ -10,9 +10,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-/**
- * Created by jt on 9/26/17.
- */
+
 @Controller
 @RequestMapping("/api/v1/categories/")
 public class CategoryController {
