@@ -8,9 +8,6 @@ import io.swagger.annotations.ApiOperation;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * Created by jt on 10/6/17.
- */
 @Api(description = "This is my Vendor API")
 @RestController
 @RequestMapping(VendorController.BASE_URL)
