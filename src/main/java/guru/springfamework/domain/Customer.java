@@ -7,9 +7,6 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-/**
- * Created by jt on 9/27/17.
- */
 @Entity
 @Data
 public class Customer {
