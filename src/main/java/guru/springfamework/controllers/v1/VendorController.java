@@ -6,9 +6,6 @@ import guru.springfamework.services.VendorService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * Created by jt on 10/6/17.
- */
 @RestController
 @RequestMapping(VendorController.BASE_URL)
 public class VendorController {
