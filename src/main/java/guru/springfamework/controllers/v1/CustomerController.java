@@ -8,9 +8,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * Created by jt on 9/27/17.
- */
+
 @Controller
 @RequestMapping(CustomerController.BASE_URL)
 public class CustomerController {
